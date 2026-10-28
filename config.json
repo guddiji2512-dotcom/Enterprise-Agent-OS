@@ -1,0 +1,9 @@
+{
+  "enterprise_cluster": {
+    "organization": "Enterprise-Global",
+    "enclave_mode": "hardware_backed_sgx",
+    "gossip_sync_protocol": "crdt_lww",
+    "regions": ["us-east-1", "eu-west-1", "ap-south-1"],
+    "kill_switch_sla_ms": 4.36
+  }
+}
